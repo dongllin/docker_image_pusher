@@ -1,1 +1,3 @@
-nextcloud
+redis
+mariadb:12.1.1-noble-rc
+nginx:stable-perl
