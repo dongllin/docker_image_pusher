@@ -1,1 +1,1 @@
-wordpress:latest
+mariadb:10.5.12
