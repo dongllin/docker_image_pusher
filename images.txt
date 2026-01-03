@@ -1,1 +1,1 @@
-webdav/server
+bytemark/webdav
