@@ -1,1 +1,1 @@
-twake/twake-drive
+linagora/twake-web
